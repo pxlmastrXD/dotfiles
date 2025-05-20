@@ -1,3 +1,10 @@
+/*
+Required extensions:
+- One Dark Pro theme
+
+Cub's vscode dotfile est 2025
+*/
+
 {
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
